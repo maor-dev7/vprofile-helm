@@ -1,0 +1,8 @@
+# Keys and cluster access
+*.pem
+*.key
+kubeconfig*
+
+# Packaged Helm charts (build output)
+*.tgz
+
